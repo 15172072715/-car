@@ -2,7 +2,10 @@
 
 int main(void)
 {
-  delay_init();
+  安徽微博
+    安徽覅发
+    是否会
+    
   
   
 }
